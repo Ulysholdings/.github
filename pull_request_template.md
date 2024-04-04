@@ -1,4 +1,4 @@
-## [GitHub Issue]
+## [Jira Issue]
 
 * Link to issue
 
